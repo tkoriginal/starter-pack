@@ -1,0 +1,42 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# production
+build
+
+# Dependency directories
+node_modules
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+
+# Emacs
+*~
+
+# OSX
+.DS_Store
+
+#Heroku
+.env
+newrelic_agent.log
+
+#Yarn
+yarn.lock
+
+#redis
+dump.rdb
+
+#webpack
+stats.json
+
+#temp directories
+downloads
+
+# cypress
+cypress/screenshots
+cypress/videos
